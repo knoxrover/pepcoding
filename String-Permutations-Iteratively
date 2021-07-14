@@ -26,8 +26,6 @@ public class Main {
 	        System.out.println();
 	    }
 
-
-
 	}
 	
 	public static int fact(int n){
