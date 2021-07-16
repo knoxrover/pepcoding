@@ -4,7 +4,7 @@ function processData(input) {
     let b=1;
     let sum=0;
     
-    while(a<input){
+    while(a<=input){
         process.stdout.write(a+" ");
         sum=a+b;
         a=b;
