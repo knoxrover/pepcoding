@@ -1,7 +1,7 @@
 function processData(input) {
     let inp= input.split("\n");
     let size= Number(JSON.parse(inp[0]));
-    let arr = inp.splice(1,15);
+    let arr = inp.splice(1,size);
     let d= Number(inp[1]);
     
   
